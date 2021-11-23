@@ -1,0 +1,41 @@
+
+h1 {
+    font-family:Arial, Helvetica, sans-serif
+}
+#first{
+    border: 2px solid red;
+    /* border-colour: red;
+    border-width:2px;
+    border-style:solid */
+    padding:70px;
+    font-family: cursive;
+    font-size: large;
+    color: salmon;
+    border-radius: 70px;
+}
+#second{
+    border: 2px solid blue;
+    /* border-colour: red;
+    border-width:2px;
+    border-style:solid */
+    padding:70px;
+    font-family: cursive;
+    font-size: large;
+    color: blue;
+    border-radius: 70px;
+    margin-left: 10px;
+}
+#third{
+    border: 2px solid green;
+    /* border-colour: red;
+    border-width:2px;
+    border-style:solid */
+    padding:70px;
+    font-family: cursive;
+    font-size: large;
+    color: green;
+    border-radius: 70px;
+}
+.container{
+    border:2px dashed black;
+}
